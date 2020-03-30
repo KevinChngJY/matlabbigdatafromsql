@@ -15,5 +15,5 @@ Guildline for Access Relational Database in MATLAB : https://www.mathworks.com/h
 
 <h2>Dataset :</h2>
 Please download from
-<a href="https://www.dropbox.com/s/s5gmgsuowpiyclc/green_tripdata_2016-01.zip?dl=0">click this lin</a>
+<a href="https://www.dropbox.com/s/s5gmgsuowpiyclc/green_tripdata_2016-01.zip?dl=0">click this link (Dropbox) </a>
 
